@@ -33,7 +33,7 @@ public class MapUtil {
             Object value = map.get(key);
             if (value != null) {
                 nonNullMap.put(key, value);
-            }
+            } 
         }
         return nonNullMap;
     }
