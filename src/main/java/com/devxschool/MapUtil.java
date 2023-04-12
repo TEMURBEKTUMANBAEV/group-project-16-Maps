@@ -18,6 +18,7 @@ public class MapUtil {
         numberMap.put(5, 2.0);
         numberMap.put(6, 4.0);
         numberMap.put(null, 4.0);
+        
 
         MapUtil mapUtil = new MapUtil();
 
